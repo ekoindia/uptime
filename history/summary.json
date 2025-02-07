@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 538,
-    "timeDay": 538,
-    "timeWeek": 538,
-    "timeMonth": 538,
-    "timeYear": 538,
+    "time": 505,
+    "timeDay": 505,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {}
   },
   {
@@ -28,30 +28,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 898,
-    "timeWeek": 898,
-    "timeMonth": 898,
-    "timeYear": 898,
+    "time": 895,
+    "timeDay": 895,
+    "timeWeek": 895,
+    "timeMonth": 895,
+    "timeYear": 895,
     "dailyMinutesDown": {}
   },
   {
     "name": "Connect Eloka Widget",
-    "url": "https://connect.eko.in/elements/tf-eko-connect-widget/tf-wlc-widget.html",
-    "icon": "https://icons.duckduckgo.com/ip3/connect.eko.in.ico",
+    "url": "$CONNECT_ELOKA_WIDGET_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "connect-eloka-widget",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 1506,
     "timeDay": 1506,
     "timeWeek": 1506,
     "timeMonth": 1506,
     "timeYear": 1506,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-07": 0
+    }
   },
   {
     "name": "Eloka API",
@@ -59,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eloka-api",
     "status": "down",
-    "uptime": "98.24%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "98.24%",
-    "uptimeYear": "98.24%",
+    "uptime": "91.15%",
+    "uptimeDay": "91.15%",
+    "uptimeWeek": "91.15%",
+    "uptimeMonth": "91.15%",
+    "uptimeYear": "91.15%",
     "time": 835,
     "timeDay": 835,
     "timeWeek": 835,
     "timeMonth": 835,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2025-02-07": 0
+      "2025-02-07": 1
     }
   }
 ]
