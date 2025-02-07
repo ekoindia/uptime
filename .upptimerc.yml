@@ -10,7 +10,7 @@ sites:
   - name: Connect Eloka Widget
     url: https://connect.eko.in/elements/tf-eko-connect-widget/tf-wlc-widget.html
   - name: Eloka API
-    url: https://api.connect.eko.in/_health/pulse
+    url: $CONNECT_API_HEALTH_URL
 
 
 status-website:
