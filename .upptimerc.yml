@@ -11,6 +11,9 @@ sites:
     url: $CONNECT_ELOKA_WIDGET_URL
   - name: Eloka API
     url: $CONNECT_API_HEALTH_URL
+  - name: Automaton
+    url: $N8N_URL
+    
 
 
 status-website:
