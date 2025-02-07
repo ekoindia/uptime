@@ -11,6 +11,7 @@ sites:
     url: $CONNECT_ELOKA_WIDGET_URL
   - name: Eloka API
     url: $CONNECT_API_HEALTH_URL
+    __dangerous__body_down_if_text_missing: '"status":"ok"'
   - name: Automaton
     url: $N8N_URL
     
