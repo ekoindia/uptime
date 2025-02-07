@@ -8,7 +8,7 @@ sites:
   - name: Connect Webapp
     url: https://connect.eko.in
   - name: Connect Eloka Widget
-    url: https://connect.eko.in/elements/tf-eko-connect-widget/tf-wlc-widget.html
+    url: $CONNECT_ELOKA_WIDGET_URL
   - name: Eloka API
     url: $CONNECT_API_HEALTH_URL
 
