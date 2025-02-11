@@ -22,9 +22,9 @@
     "url": "https://connect.eko.in",
     "icon": "https://icons.duckduckgo.com/ip3/connect.eko.in.ico",
     "slug": "connect-webapp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 869,
     "timeMonth": 869,
     "timeYear": 869,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-11": 0
+    }
   },
   {
     "name": "Connect Eloka Widget",
     "url": "$CONNECT_ELOKA_WIDGET_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "connect-eloka-widget",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +53,18 @@
     "timeWeek": 1368,
     "timeMonth": 1368,
     "timeYear": 1368,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-11": 0
+    }
   },
   {
     "name": "Eloka API",
     "url": "$CONNECT_API_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eloka-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 895,
     "timeMonth": 895,
     "timeYear": 895,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-11": 0
+    }
   },
   {
     "name": "Automaton",
