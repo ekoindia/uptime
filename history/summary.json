@@ -22,9 +22,9 @@
     "url": "https://connect.eko.in",
     "icon": "https://icons.duckduckgo.com/ip3/connect.eko.in.ico",
     "slug": "connect-webapp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -34,6 +34,7 @@
     "timeMonth": 860,
     "timeYear": 860,
     "dailyMinutesDown": {
+      "2025-03-05": 0,
       "2025-02-11": 25
     }
   },
@@ -42,9 +43,9 @@
     "url": "$CONNECT_ELOKA_WIDGET_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "connect-eloka-widget",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -54,6 +55,7 @@
     "timeMonth": 1349,
     "timeYear": 1349,
     "dailyMinutesDown": {
+      "2025-03-05": 0,
       "2025-02-11": 25
     }
   },
@@ -62,9 +64,9 @@
     "url": "$CONNECT_API_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eloka-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -74,6 +76,7 @@
     "timeMonth": 869,
     "timeYear": 869,
     "dailyMinutesDown": {
+      "2025-03-05": 0,
       "2025-03-03": 16,
       "2025-02-11": 25
     }
@@ -84,18 +87,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "automaton",
     "status": "down",
-    "uptime": "19.45%",
+    "uptime": "18.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.45%",
-    "uptimeYear": "19.45%",
+    "uptimeMonth": "18.89%",
+    "uptimeYear": "18.89%",
     "time": 666,
     "timeDay": 761,
     "timeWeek": 650,
     "timeMonth": 666,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2025-03-05": 73,
+      "2025-03-05": 1160,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
