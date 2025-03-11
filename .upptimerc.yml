@@ -2,6 +2,9 @@
 owner: ekoindia # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
+
+## Add secrets here: https://github.com/ekoindia/uptime/settings/secrets/actions
+
 sites:
   - name: Eloka Webapp
     url: https://ekostore.app
@@ -12,6 +15,9 @@ sites:
   - name: Eloka API
     url: $CONNECT_API_HEALTH_URL
     __dangerous__body_down_if_text_missing: '"status":"ok"'
+  - name: AePS Gateway
+    url: $AEPS_GATEWAY_URL
+    method: POST
   - name: Automaton
     url: $N8N_URL
   - name: Eko.in website
