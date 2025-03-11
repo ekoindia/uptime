@@ -19,9 +19,10 @@ sites:
   - name: AePS Gateway
     url: $AEPS_GATEWAY_URL
     method: POST
+    slug: aeps-gateway
   - name: Automaton
     url: $N8N_URL
-  - name: Eko.in website
+  - name: Eko Website
     url: https://eko.in
   - name: Guides Portal
     url: https://ekoindia.github.io/empages/
