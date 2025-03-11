@@ -3,6 +3,7 @@ owner: ekoindia # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 
+## Configuration guide: https://upptime.js.org/docs/configuration/
 ## Add secrets here: https://github.com/ekoindia/uptime/settings/secrets/actions
 
 sites:
@@ -25,7 +26,12 @@ sites:
   - name: Guides Portal
     url: https://ekoindia.github.io/empages/
     
+delay: 200 # Check delay in milliseconds
 
+assignees:
+  - manustays
+  - 100RABHM
+  - shubhmjain30
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -41,6 +47,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/
+  metaTags:
+    - name: "robots"
+      content: "noindex"
 
 i18n:
   footer: ""
