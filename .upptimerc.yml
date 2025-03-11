@@ -14,6 +14,8 @@ sites:
     __dangerous__body_down_if_text_missing: '"status":"ok"'
   - name: Automaton
     url: $N8N_URL
+  - name: Eko.in website
+    url: https://eko.in
     
 
 
