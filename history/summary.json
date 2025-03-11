@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 795,
-    "timeWeek": 518,
-    "timeMonth": 508,
-    "timeYear": 512,
+    "time": 511,
+    "timeDay": 632,
+    "timeWeek": 513,
+    "timeMonth": 507,
+    "timeYear": 511,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 861,
-    "timeDay": 1008,
-    "timeWeek": 894,
-    "timeMonth": 858,
-    "timeYear": 861,
+    "time": 863,
+    "timeDay": 985,
+    "timeWeek": 901,
+    "timeMonth": 861,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2025-02-11": 25
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 1346,
-    "timeDay": 1394,
-    "timeWeek": 1364,
-    "timeMonth": 1339,
-    "timeYear": 1346,
+    "time": 1353,
+    "timeDay": 1504,
+    "timeWeek": 1392,
+    "timeMonth": 1347,
+    "timeYear": 1353,
     "dailyMinutesDown": {
       "2025-02-11": 25
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 866,
+    "time": 869,
     "timeDay": 1009,
-    "timeWeek": 860,
-    "timeMonth": 857,
-    "timeYear": 866,
+    "timeWeek": 877,
+    "timeMonth": 861,
+    "timeYear": 869,
     "dailyMinutesDown": {
       "2025-03-03": 16,
       "2025-02-11": 25
@@ -84,18 +84,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "automaton",
     "status": "down",
-    "uptime": "15.72%",
+    "uptime": "15.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "13.39%",
-    "uptimeYear": "15.72%",
-    "time": 663,
-    "timeDay": 748,
-    "timeWeek": 665,
-    "timeMonth": 661,
-    "timeYear": 663,
+    "uptimeMonth": "12.44%",
+    "uptimeYear": "15.57%",
+    "time": 688,
+    "timeDay": 1174,
+    "timeWeek": 782,
+    "timeMonth": 693,
+    "timeYear": 688,
     "dailyMinutesDown": {
-      "2025-03-11": 74,
+      "2025-03-11": 490,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -124,5 +124,23 @@
       "2025-02-13": 1440,
       "2025-02-12": 427
     }
+  },
+  {
+    "name": "Eko.in website",
+    "url": "https://eko.in",
+    "icon": "https://icons.duckduckgo.com/ip3/eko.in.ico",
+    "slug": "eko-in-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 334,
+    "timeDay": 334,
+    "timeWeek": 334,
+    "timeMonth": 334,
+    "timeYear": 334,
+    "dailyMinutesDown": {}
   }
 ]
