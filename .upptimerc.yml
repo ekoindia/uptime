@@ -16,6 +16,8 @@ sites:
     url: $N8N_URL
   - name: Eko.in website
     url: https://eko.in
+  - name: Guides Portal
+    url: https://ekoindia.github.io/empages/
     
 
 
