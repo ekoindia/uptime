@@ -27,8 +27,9 @@ sites:
   - name: Guides Portal
     url: https://ekoindia.github.io/empages/
   - name: Zoho
-    url: $ZOHO_URL
-    # url: $EPS_HEALTH_URL_PREFIX/zoho
+    url: $EPS_HEALTH_URL_PREFIX/zoho
+    __dangerous__insecure: true
+    # url: $ZOHO_URL
     
 delay: 200 # Check delay in milliseconds
 
