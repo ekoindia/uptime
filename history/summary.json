@@ -5,28 +5,26 @@
     "icon": "https://icons.duckduckgo.com/ip3/ekostore.app.ico",
     "slug": "eloka-webapp",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 644,
     "timeDay": 511,
     "timeWeek": 922,
     "timeMonth": 695,
     "timeYear": 644,
-    "dailyMinutesDown": {
-      "2025-03-13": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Connect Webapp",
     "url": "https://connect.eko.in",
     "icon": "https://icons.duckduckgo.com/ip3/connect.eko.in.ico",
     "slug": "connect-webapp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -36,6 +34,7 @@
     "timeMonth": 869,
     "timeYear": 864,
     "dailyMinutesDown": {
+      "2025-03-13": 0,
       "2025-02-11": 25
     }
   },
@@ -44,9 +43,9 @@
     "url": "$CONNECT_ELOKA_WIDGET_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "connect-eloka-widget",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -56,6 +55,7 @@
     "timeMonth": 1383,
     "timeYear": 1372,
     "dailyMinutesDown": {
+      "2025-03-13": 0,
       "2025-02-11": 25
     }
   },
@@ -64,9 +64,9 @@
     "url": "$CONNECT_API_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eloka-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
@@ -76,6 +76,7 @@
     "timeMonth": 870,
     "timeYear": 870,
     "dailyMinutesDown": {
+      "2025-03-13": 0,
       "2025-03-03": 16,
       "2025-02-11": 25
     }
@@ -104,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "automaton",
     "status": "down",
-    "uptime": "14.58%",
+    "uptime": "14.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "14.58%",
+    "uptimeYear": "14.45%",
     "time": 683,
     "timeDay": 673,
     "timeWeek": 718,
     "timeMonth": 691,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2025-03-13": 697,
+      "2025-03-13": 1135,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
@@ -189,18 +190,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zoho",
     "status": "down",
-    "uptime": "60.38%",
-    "uptimeDay": "60.38%",
-    "uptimeWeek": "60.38%",
-    "uptimeMonth": "60.38%",
-    "uptimeYear": "60.38%",
+    "uptime": "24.38%",
+    "uptimeDay": "24.38%",
+    "uptimeWeek": "24.38%",
+    "uptimeMonth": "24.38%",
+    "uptimeYear": "24.38%",
     "time": 601,
     "timeDay": 601,
     "timeWeek": 601,
     "timeMonth": 601,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2025-03-13": 117
+      "2025-03-13": 555
     }
   }
 ]
