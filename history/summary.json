@@ -113,7 +113,7 @@
     "timeMonth": 691,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2025-03-13": 408,
+      "2025-03-13": 409,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
@@ -187,18 +187,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zoho",
     "status": "up",
-    "uptime": "1.36%",
-    "uptimeDay": "1.36%",
-    "uptimeWeek": "1.36%",
-    "uptimeMonth": "1.36%",
-    "uptimeYear": "1.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 618,
     "timeDay": 618,
     "timeWeek": 618,
     "timeMonth": 618,
     "timeYear": 618,
-    "dailyMinutesDown": {
-      "2025-03-13": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
