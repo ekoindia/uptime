@@ -1,7 +1,7 @@
 url: $EPS_HEALTH_URL_PREFIX/zoho
 status: down
 code: 404
-responseTime: 694
-lastUpdated: 2025-03-25T23:12:01.703Z
+responseTime: 598
+lastUpdated: 2025-03-26T23:12:15.425Z
 startTime: 2025-03-13T06:40:20.783Z
 generator: Upptime <https://github.com/upptime/upptime>
