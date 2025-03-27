@@ -34,6 +34,34 @@ sites:
   - name: Guides Portal
     url: https://ekoindia.github.io/empages/
     
+  - name: fingpay-aeps
+    url: $EPS_HEALTH_URL_PREFIX/fingpay-aeps
+    __dangerous__insecure: true
+
+  - name: fino-aeps
+    url: $EPS_HEALTH_URL_PREFIX/fino-aeps
+    __dangerous__insecure: true
+
+  - name: razorpay-payout
+    url: $EPS_HEALTH_URL_PREFIX/razorpay-payout
+    __dangerous__insecure: true
+
+  - name: levin-dmt
+    url: $EPS_HEALTH_URL_PREFIX/levin-dmt
+    __dangerous__insecure: true
+
+  - name: axis-payout
+    url: $EPS_HEALTH_URL_PREFIX/axis-payout
+    __dangerous__insecure: true
+
+  - name: castler-virtual-account
+    url: $EPS_HEALTH_URL_PREFIX/castler-virtual-account
+    __dangerous__insecure: true
+	
+  - name: signzy-sign-document
+    url: $EPS_HEALTH_URL_PREFIX/signzy-sign-document
+    __dangerous__insecure: true
+    
   - name: Zoho
     url: $EPS_HEALTH_URL_PREFIX/zoho-crm
     __dangerous__insecure: true
