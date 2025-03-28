@@ -12,7 +12,7 @@ sites:
     
   - name: Eloka API
     url: $CONNECT_API_HEALTH_URL
-    icon: https://ekostore.app/favicon.ico
+    icon: https://ekostore.app/favicon.svg
     __dangerous__body_down_if_text_missing: '"status":"ok"'
     
   - name: Connect Webapp
