@@ -10,30 +10,30 @@ sites:
   - name: Eloka Webapp
     url: https://ekostore.app
     
+  - name: Eloka API
+    url: $CONNECT_API_HEALTH_URL
+    __dangerous__body_down_if_text_missing: '"status":"ok"'
+    
   - name: Connect Webapp
     url: https://connect.eko.in
     
   - name: Connect Eloka Widget
     url: $CONNECT_ELOKA_WIDGET_URL
     
-  - name: Eloka API
-    url: $CONNECT_API_HEALTH_URL
-    __dangerous__body_down_if_text_missing: '"status":"ok"'
-    
   - name: AePS Gateway
     url: $AEPS_GATEWAY_URL
     method: POST
     slug: aeps-gateway
-    
-  - name: Automaton
-    url: $N8N_URL
-    
-  - name: Eko Website
-    url: https://eko.in
-    
-  - name: Guides+SOP Portal
-    slug: guides-portal
-    url: https://ekoindia.github.io/empages/
+
+  - name: Axis - Payout
+    slug: axis-payout
+    url: $EPS_HEALTH_URL_PREFIX/axis-payout
+    __dangerous__insecure: true
+
+  - name: Castler - Virtual Account
+    slug: castler-virtual-account
+    url: $EPS_HEALTH_URL_PREFIX/castler-virtual-account
+    __dangerous__insecure: true
     
   - name: Fingpay - AePS
     slug: fingpay-aeps
@@ -45,24 +45,14 @@ sites:
     url: $EPS_HEALTH_URL_PREFIX/fino-aeps
     __dangerous__insecure: true
 
-  - name: Razorpay - Payout
-    slug: razorpay-payout
-    url: $EPS_HEALTH_URL_PREFIX/razorpay-payout
-    __dangerous__insecure: true
-
   - name: Levin - DMT
     slug: levin-dmt
     url: $EPS_HEALTH_URL_PREFIX/levin-dmt
     __dangerous__insecure: true
 
-  - name: Axis - Payout
-    slug: axis-payout
-    url: $EPS_HEALTH_URL_PREFIX/axis-payout
-    __dangerous__insecure: true
-
-  - name: Castler - Virtual Account
-    slug: castler-virtual-account
-    url: $EPS_HEALTH_URL_PREFIX/castler-virtual-account
+  - name: Razorpay - Payout
+    slug: razorpay-payout
+    url: $EPS_HEALTH_URL_PREFIX/razorpay-payout
     __dangerous__insecure: true
 	
   - name: Signzy - Sign Document
@@ -73,6 +63,16 @@ sites:
   - name: Zoho
     url: $EPS_HEALTH_URL_PREFIX/zoho-crm
     __dangerous__insecure: true
+    
+  - name: Eko Website
+    url: https://eko.in
+    
+  - name: Guides+SOP Portal
+    slug: guides-portal
+    url: https://ekoindia.github.io/empages/
+    
+  - name: Automaton
+    url: $N8N_URL
 
     
 delay: 200 # Check delay in milliseconds
