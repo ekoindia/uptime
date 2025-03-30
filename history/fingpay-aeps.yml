@@ -1,7 +1,7 @@
 url: $EPS_HEALTH_URL_PREFIX/fingpay-aeps
 status: down
 code: 403
-responseTime: 190
-lastUpdated: 2025-03-29T23:11:25.081Z
+responseTime: 191
+lastUpdated: 2025-03-30T23:12:45.045Z
 startTime: 2025-03-27T11:37:24.862Z
 generator: Upptime <https://github.com/upptime/upptime>
