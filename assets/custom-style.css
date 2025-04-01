@@ -1,0 +1,11 @@
+/* :root {
+	--body-background-color: #001716;
+} */
+
+.logo > img {
+	height: 2rem;
+}
+
+.logo > div {
+	font-size: 1.4rem;
+}

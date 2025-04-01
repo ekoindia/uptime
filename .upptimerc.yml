@@ -9,19 +9,19 @@ repo: uptime # The name of this repository
 sites:
   - name: Eloka Webapp
     url: https://ekostore.app
-    
+
   - name: Eloka API
     url: $CONNECT_API_HEALTH_URL
     icon: https://ekostore.app/favicon.svg
     __dangerous__body_down_if_text_missing: '"status":"ok"'
-    
+
   - name: Connect Webapp
     url: https://connect.eko.in
-    
+
   - name: Connect Eloka Widget
     icon: https://connect.eko.in/images/touch/favicon-16x16.png
     url: $CONNECT_ELOKA_WIDGET_URL
-    
+
   - name: AePS Gateway
     url: $AEPS_GATEWAY_URL
     method: POST
@@ -31,13 +31,14 @@ sites:
   - name: Axis - Payout
     slug: axis-payout
     url: $EPS_HEALTH_URL_PREFIX/axis-payout
+    icon: https://ekoindia.github.io/uptime/eps.favicon.png
     __dangerous__insecure: true
 
   - name: Castler - Virtual Account
     slug: castler-virtual-account
     url: $EPS_HEALTH_URL_PREFIX/castler-virtual-account
     __dangerous__insecure: true
-    
+
   - name: Fingpay - AePS
     slug: fingpay-aeps
     url: $EPS_HEALTH_URL_PREFIX/fingpay-aeps
@@ -57,27 +58,27 @@ sites:
     slug: razorpay-payout
     url: $EPS_HEALTH_URL_PREFIX/razorpay-payout
     __dangerous__insecure: true
-	
+
   - name: Signzy - Sign Document
     slug: signzy-sign-document
     url: $EPS_HEALTH_URL_PREFIX/signzy-sign-document
     __dangerous__insecure: true
-    
+
   - name: Zoho
     url: $EPS_HEALTH_URL_PREFIX/zoho-crm
     __dangerous__insecure: true
-    
+
   - name: Eko Website
     url: https://eko.in
-    
+
   - name: Guides+SOP Portal
     slug: guides-portal
     url: https://ekoindia.github.io/empages/
-    
+
   - name: Automaton
     url: $N8N_URL
 
-    
+
 delay: 200 # Check delay in milliseconds
 
 assignees:
@@ -94,9 +95,12 @@ status-website:
   name: Uptime Status
   # introTitle: "**Uptime** Monitor"
   # introMessage: ""
+  links:
+    - rel: stylesheet
+      href: https://ekoindia.github.io/uptime/custom-styles.css
   navbar:
-    - title: Status
-      href: /
+    # - title: Status
+    #  href: /
     - title: GitHub
       href: https://github.com/$OWNER/
   metaTags:
