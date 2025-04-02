@@ -1,7 +1,7 @@
 url: $EPS_HEALTH_URL_PREFIX/levin-dmt
 status: down
 code: 502
-responseTime: 197
-lastUpdated: 2025-04-02T06:00:38.216Z
+responseTime: 217
+lastUpdated: 2025-04-02T07:20:19.571Z
 startTime: 2025-03-27T11:37:36.632Z
 generator: Upptime <https://github.com/upptime/upptime>
