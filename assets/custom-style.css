@@ -1,5 +1,7 @@
 :root {
-	--body-background-color: #121212;
+	--body-background-color: #292929;
+	--nav-background-color: #121212;
+	--nav-border-bottom-color: #f38300;
 }
 
 .logo > img {
