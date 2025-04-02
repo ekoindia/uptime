@@ -52,17 +52,17 @@ sites:
     __dangerous__insecure: true
     icon: https://ekoindia.github.io/uptime/eps.favicon.png
 
-  - name: IndoNepal
-    slug: indo-nepal
-    url: $EPS_HEALTH_URL_PREFIX/indo-nepal
-    __dangerous__insecure: true
-    icon: https://ekoindia.github.io/uptime/eps.favicon.png
+  # - name: IndoNepal
+  #   slug: indo-nepal
+  #   url: $EPS_HEALTH_URL_PREFIX/indo-nepal
+  #   __dangerous__insecure: true
+  #   icon: https://ekoindia.github.io/uptime/eps.favicon.png
 
-  - name: Levin - DMT
-    slug: levin-dmt
-    url: $EPS_HEALTH_URL_PREFIX/levin-dmt
-    __dangerous__insecure: true
-    icon: https://ekoindia.github.io/uptime/eps.favicon.png
+  # - name: Levin - DMT
+  #   slug: levin-dmt
+  #   url: $EPS_HEALTH_URL_PREFIX/levin-dmt
+  #   __dangerous__insecure: true
+  #   icon: https://ekoindia.github.io/uptime/eps.favicon.png
 
   - name: Razorpay - Payout
     slug: razorpay-payout
