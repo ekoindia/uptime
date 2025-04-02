@@ -1,9 +1,9 @@
-/* :root {
-	--body-background-color: #001716;
-} */
+:root {
+	--body-background-color: #121212;
+}
 
 .logo > img {
-	height: 2rem;
+	height: 2rem !important;
 }
 
 .logo > div {
