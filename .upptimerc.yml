@@ -49,6 +49,11 @@ sites:
     url: $EPS_HEALTH_URL_PREFIX/fino-aeps
     __dangerous__insecure: true
 
+  - name: IndoNepal
+    slug: indo-nepal
+    url: $EPS_HEALTH_URL_PREFIX/indo-nepal
+    __dangerous__insecure: true
+
   - name: Levin - DMT
     slug: levin-dmt
     url: $EPS_HEALTH_URL_PREFIX/levin-dmt
