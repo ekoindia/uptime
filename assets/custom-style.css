@@ -11,3 +11,7 @@
 .logo > div {
 	font-size: 1.4rem;
 }
+
+section.live-status > article > div {
+	font-size: 0.7em;
+}
