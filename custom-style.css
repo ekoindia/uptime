@@ -1,6 +1,6 @@
 :root {
 	--body-background-color: #292929;
-	--nav-background-color: #121212;
+	--nav-background-color: #191000;
 	--nav-border-bottom-color: #f38300;
 }
 
@@ -10,4 +10,8 @@
 
 .logo > div {
 	font-size: 1.4rem;
+}
+
+section.live-status > article > div {
+	font-size: 0.7em;
 }
