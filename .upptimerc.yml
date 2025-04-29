@@ -108,6 +108,7 @@ status-website:
   name: Uptime
   # introTitle: "**Uptime** Monitor"
   # introMessage: ""
+  js: "window.onload = function() { setInterval(() => location.reload(), 300000); }"
   links:
     - rel: stylesheet
       href: https://ekoindia.github.io/uptime/custom-style.css
