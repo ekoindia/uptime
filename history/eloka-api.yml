@@ -1,7 +1,7 @@
 url: $CONNECT_API_HEALTH_URL
 status: up
 code: 200
-responseTime: 1026
-lastUpdated: 2025-08-23T23:12:44.570Z
+responseTime: 1201
+lastUpdated: 2025-08-24T23:12:16.061Z
 startTime: 2025-02-07T18:26:16.112Z
 generator: Upptime <https://github.com/upptime/upptime>
