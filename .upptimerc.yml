@@ -9,6 +9,7 @@ repo: uptime # The name of this repository
 sites:
   - name: Eloka Webapp
     url: https://ekostore.app
+    maxResponseTime: 3000
 
   - name: Eloka API
     url: $CONNECT_API_HEALTH_URL
@@ -17,6 +18,7 @@ sites:
 
   - name: Connect Webapp
     url: https://connect.eko.in
+    maxResponseTime: 3000
 
   - name: Connect Eloka Widget
     icon: https://connect.eko.in/images/touch/favicon-16x16.png
@@ -90,6 +92,11 @@ sites:
 
   - name: Automaton
     url: $N8N_URL
+
+  - name: Lint
+    url: $LINT_URL
+    headers:
+      - "Authorization: Basic $LINT_BASIC_AUTH"
 
 
 delay: 200 # Check delay in milliseconds
