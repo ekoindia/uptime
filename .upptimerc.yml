@@ -91,7 +91,7 @@ sites:
     url: https://ekoindia.github.io/empages/
 
   - name: Automaton
-    url: $N8N_URL
+    url: $AUTOMATON_URL
 
   - name: Lint
     url: $LINT_URL
