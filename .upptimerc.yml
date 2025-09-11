@@ -92,9 +92,11 @@ sites:
 
   - name: Automaton
     url: $AUTOMATON_URL
+    icon: https://ekoindia.github.io/uptime/github.png
 
   - name: Lint
     url: $LINT_URL
+    icon: https://ekoindia.github.io/uptime/github.png
     headers:
       - "Authorization: Basic $LINT_BASIC_AUTH"
     __dangerous__body_down_if_text_missing: '"health":"GREEN"'
