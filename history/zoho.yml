@@ -1,7 +1,7 @@
 url: $EPS_HEALTH_URL_PREFIX/zoho-crm
 status: up
 code: 200
-responseTime: 296
-lastUpdated: 2025-09-13T23:10:59.845Z
+responseTime: 256
+lastUpdated: 2025-09-14T23:11:10.426Z
 startTime: 2025-03-13T06:40:20.783Z
 generator: Upptime <https://github.com/upptime/upptime>
