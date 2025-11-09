@@ -1,7 +1,7 @@
 url: $EPS_HEALTH_URL_PREFIX/castler-virtual-account
 status: up
 code: 200
-responseTime: 226
-lastUpdated: 2025-11-08T23:03:16.249Z
+responseTime: 239
+lastUpdated: 2025-11-09T23:02:40.504Z
 startTime: 2025-03-27T11:37:43.558Z
 generator: Upptime <https://github.com/upptime/upptime>
