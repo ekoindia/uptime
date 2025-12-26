@@ -1,7 +1,7 @@
 url: $EPS_HEALTH_URL_PREFIX/axis-payout
 status: up
 code: 200
-responseTime: 842
-lastUpdated: 2025-12-25T23:03:21.451Z
+responseTime: 832
+lastUpdated: 2025-12-26T23:03:39.467Z
 startTime: 2025-03-27T11:37:40.002Z
 generator: Upptime <https://github.com/upptime/upptime>
