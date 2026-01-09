@@ -1,7 +1,7 @@
 url: $EPS_HEALTH_URL_PREFIX/razorpay-payout
 status: up
 code: 200
-responseTime: 234
-lastUpdated: 2026-01-08T23:03:34.818Z
+responseTime: 200
+lastUpdated: 2026-01-09T23:03:31.174Z
 startTime: 2025-03-27T11:37:33.045Z
 generator: Upptime <https://github.com/upptime/upptime>
