@@ -1,7 +1,7 @@
 url: $EPS_HEALTH_URL_PREFIX/fingpay-aeps
 status: up
 code: 200
-responseTime: 217
-lastUpdated: 2026-01-14T23:03:23.711Z
+responseTime: 222
+lastUpdated: 2026-01-15T23:03:35.006Z
 startTime: 2025-03-27T11:37:24.862Z
 generator: Upptime <https://github.com/upptime/upptime>
