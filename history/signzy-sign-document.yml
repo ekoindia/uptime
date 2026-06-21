@@ -1,7 +1,7 @@
 url: $EPS_HEALTH_URL_PREFIX/signzy-sign-document
 status: up
 code: 200
-responseTime: 883
-lastUpdated: 2026-06-20T23:31:12.696Z
+responseTime: 797
+lastUpdated: 2026-06-21T23:33:25.079Z
 startTime: 2025-03-27T11:37:47.108Z
 generator: Upptime <https://github.com/upptime/upptime>
