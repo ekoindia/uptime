@@ -1,7 +1,7 @@
 url: $EPS_HEALTH_URL_PREFIX/zoho-crm
 status: down
 code: 502
-responseTime: 4013
-lastUpdated: 2026-06-25T23:33:01.673Z
+responseTime: 3884
+lastUpdated: 2026-06-26T23:30:08.919Z
 startTime: 2025-03-13T06:40:20.783Z
 generator: Upptime <https://github.com/upptime/upptime>
