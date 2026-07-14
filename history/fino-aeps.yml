@@ -1,7 +1,7 @@
 url: $EPS_HEALTH_URL_PREFIX/fino-aeps
 status: up
 code: 200
-responseTime: 848
-lastUpdated: 2026-07-12T23:20:07.836Z
+responseTime: 900
+lastUpdated: 2026-07-14T23:53:12.644Z
 startTime: 2025-03-27T11:37:29.489Z
 generator: Upptime <https://github.com/upptime/upptime>
