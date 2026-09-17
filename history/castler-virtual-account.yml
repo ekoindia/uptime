@@ -1,7 +1,7 @@
 url: $EPS_HEALTH_URL_PREFIX/castler-virtual-account
 status: down
 code: 502
-responseTime: 3887
-lastUpdated: 2026-09-16T23:09:56.555Z
+responseTime: 3952
+lastUpdated: 2026-09-17T23:09:14.328Z
 startTime: 2025-03-27T11:37:43.558Z
 generator: Upptime <https://github.com/upptime/upptime>
