@@ -1,7 +1,7 @@
 url: $EPS_HEALTH_URL_PREFIX/razorpay-payout
 status: down
 code: 502
-responseTime: 4012
-lastUpdated: 2026-10-22T23:11:21.124Z
+responseTime: 3882
+lastUpdated: 2026-10-23T23:10:58.890Z
 startTime: 2025-03-27T11:37:33.045Z
 generator: Upptime <https://github.com/upptime/upptime>
