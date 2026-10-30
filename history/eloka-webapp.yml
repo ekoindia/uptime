@@ -1,7 +1,7 @@
 url: https://ekostore.app
-status: degraded
-code: 504
-responseTime: 30672
-lastUpdated: 2026-10-30T05:58:44.148Z
+status: up
+code: 200
+responseTime: 714
+lastUpdated: 2026-10-30T06:13:30.247Z
 startTime: 2025-02-07T18:26:12.341Z
 generator: Upptime <https://github.com/upptime/upptime>
