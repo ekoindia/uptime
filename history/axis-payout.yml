@@ -1,7 +1,7 @@
 url: $EPS_HEALTH_URL_PREFIX/axis-payout
 status: down
 code: 502
-responseTime: 796
-lastUpdated: 2026-11-02T23:06:42.116Z
+responseTime: 818
+lastUpdated: 2026-11-03T23:06:13.747Z
 startTime: 2025-03-27T11:37:40.002Z
 generator: Upptime <https://github.com/upptime/upptime>
