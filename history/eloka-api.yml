@@ -1,7 +1,7 @@
 url: $CONNECT_API_HEALTH_URL
 status: down
 code: 404
-responseTime: 696
-lastUpdated: 2026-11-08T23:05:55.081Z
+responseTime: 584
+lastUpdated: 2026-11-09T23:05:49.027Z
 startTime: 2025-02-07T18:26:16.112Z
 generator: Upptime <https://github.com/upptime/upptime>
